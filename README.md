@@ -27,8 +27,8 @@
 <div>
 <br>
 
-- 🔭 Atualmente, estou trabalhando como Análista de Marketing.
-- 🌱 Atualmente, estou estudando Python para Análise de Dados e  Desenvolvimento Web.
+- 🔭 Atualmente, estou trabalhando como Análista de Dados - Marketing.
+- 🌱 Estudandte de Python para Análise de Dados e  Desenvolvimento Web.
 - 💬 Pergunte-me sobre Python, Html, CSS e também Estratégias de Marketing usando essas tecnologias.
 - 📫 Como entrar em contato comigo: É só clicar na Tag do Gmail.
 - ⚡ Curiosidade: Apaixonado pela linguagem Python...
