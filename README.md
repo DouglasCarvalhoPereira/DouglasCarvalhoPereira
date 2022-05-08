@@ -20,8 +20,9 @@
 <div> 
   <a href = "mailto:carvalhodouglaspereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carvalhodouglas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.kaggle.com/carvalhodouglas" target="_blank"><img style="width:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />
+  <a href="https://www.kaggle.com/carvalhodouglas" target="_blank"><img style="width:70px;" src=" https://img.shields.io/badge/-KAGGLE-%230077B5?style=for-the-badge&logo=KAGGLE&logoColor=white&color=blue" />
 </a> 
+ 
   
 <div>
 <br>
