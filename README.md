@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/DouglasCarvalhoPereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasCarvalhoPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCarvalhoPereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 <div> 
@@ -15,9 +14,3 @@
   
 <div>
 <br>
-
-- 🔭 Atualmente, estou trabalhando como Análista de Dados - Marketing.
-- 🌱 Estudandte de Python para Análise de Dados e  Desenvolvimento Web.
-- 💬 Pergunte-me sobre Python, Html, CSS e também Estratégias de Marketing usando essas tecnologias.
-- 📫 Como entrar em contato comigo: É só clicar na Tag do Gmail.
-- ⚡ Curiosidade: Apaixonado pela linguagem Python...
