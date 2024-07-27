@@ -1,4 +1,4 @@
-### Olá! Eu sou Douglas. 👋
+### Hi, Im Douglas, or you can call me Doug, for me fine. 👋
 
 <div align="center">
   <a href="https://github.com/DouglasCarvalhoPereira">
